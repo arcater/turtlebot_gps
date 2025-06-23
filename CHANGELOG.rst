@@ -2,7 +2,7 @@
 Changelog for package turtlebot3_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-2.3.3.1 (2025-06-23)
+2.3.4 (2025-06-23)
 ------------------
 * turtlebot_gps
 * Contributor: arcater
